@@ -204,7 +204,7 @@ class Game
 
   def take_turn
     print "What's your move? > "
-    response = gets.chomp.split(" ")
+    response = gets.chomp.split(",")
     row = response[0].to_i
     column = response[1].to_i
     tile = board.return_tile(row, column)
