@@ -1,5 +1,5 @@
 #Minesweeper
-This is the classic game of Minesweeper, written in Ruby.
+This is the classic game of Minesweeper, written in Ruby. Uncover all the tiles without setting off any bombs. This game is played using the command line.
 
 This game is a work in progress. Goals include improving board aesthetics and improving UI.
 
