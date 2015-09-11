@@ -27,5 +27,17 @@ ruby minesweeper.rb
 Input coordinates as:
 
 ```
-x,y
+What's your move? > x,y
+```
+
+To save your game, input:
+
+```
+What's your move? > save
+```
+
+To load a previously saved game, run the command:
+
+```
+ruby minesweeper.rb load
 ```
